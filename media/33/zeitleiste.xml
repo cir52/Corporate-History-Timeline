@@ -1,0 +1,51 @@
+<data>
+<event
+ start="Jan 15 2000 12:00:00 GMT"
+ title="Gruendung" icon="../../timeline_js/images/dull-blue-circle.png"
+ color="#ffffff">&lt;br /&gt;&lt;div style=&quot;color:#006DB7; font-size: 0.7em; font-family: Verdana;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;br /&gt;
+					&lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; style=&quot;color:#888888; font-size: 0.7em; font-family: Verdana;&quot;&gt;					
+					
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;&lt;b&gt;Name: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;Radio Galaxy&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;&lt;b&gt;Gesch&amp;auml;ftsf&amp;uuml;hrer: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;Erich Duerr, Peter Hainzmann&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;&lt;b&gt;Mitarbeiter: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;&lt;b&gt;Programmformat: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;Young CHR&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;&lt;b&gt;Sendezeiten: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+					&lt;/table&gt;
+					&lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; style=&quot;color:#888888; font-size: 0.7em; font-family: Verdana;&quot;&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;&lt;b&gt;Anschrift: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;Haidplatz 7&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;93047 &lt;div style=&quot;color:#006DB7&quot;&gt;Regensburg&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#006DB7&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+						
+					&lt;/table&gt;&lt;br /&gt;
+					</event>
+<event
+ start="Feb 15 2009 12:00:00 GMT"
+ title="Logo-Aenderung"
+image="Senderinformationen/RG_Logo_4c.jpg"
+ icon="../../timeline_js/images/dull-blue-circle.png"
+ color="#ffffff">&lt;br /&gt;&lt;div style=&quot;color:#006DB7; font-size: 0.7em; font-family: Verdana;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;br /&gt;
+					&lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; style=&quot;color:#888888; font-size: 0.7em; font-family: Verdana;&quot;&gt;					
+					
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;Name: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;Radio Galaxy&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;Gesch&amp;auml;ftsf&amp;uuml;hrer: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;Erich Duerr, Peter Hainzmann&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;Mitarbeiter: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;Programmformat: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;Young CHR&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;Sendezeiten: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+					&lt;/table&gt;
+					&lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; style=&quot;color:#888888; font-size: 0.7em; font-family: Verdana;&quot;&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;font-style:italic; color:#006DB7&quot;&gt;&lt;b&gt;Anschrift: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;font-style:italic; color:#006DB7&quot;&gt;Lilienthalstrasse  3 c&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;font-style:italic; color:#006DB7&quot;&gt;93049 &lt;div style=&quot;color:#888888&quot;&gt;Regensburg&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;color:#888888&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+						&lt;tr&gt;&lt;td valign=&quot;top&quot; style=&quot;font-style:italic; color:#006DB7&quot;&gt;&lt;b&gt;Logo: &lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; valign=&quot;top&quot; style=&quot;font-style:italic; color:#006DB7&quot;&gt;&lt;a href=&quot;media/33/Senderinformationen/RG_Logo_4c.jpg&quot; rel=&quot;lightbox&quot;&gt;RG_Logo_4c.jpg&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+					&lt;/table&gt;&lt;br /&gt;
+					</event>
+<event
+ start="May 29 2001 12:00:00 GMT"
+ title="1. Radio Galaxy Award"
+ icon="../../timeline_js/images/red_circle.png"
+ color="#ffffff">&lt;div width=&quot;100%&quot; style=&quot;color:#006DB7; font-size: 0.7em; font-family: Verdana;&quot;&gt;Radio Galaxy verleiht zum ersten mal den Radio Galaxy Award im Rahmen der Lokalrundfunktage in Nuernberg. Die ersten Preistraeger waren die Sportfreunde Stiller.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bilder: &lt;/b&gt;&lt;br /&gt;&lt;a href=&quot;media/33/Events/Galaxy Award 2001.jpg&quot; target=&quot;_blank&quot;&gt;Galaxy Award 2001.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;</event>
+</data>

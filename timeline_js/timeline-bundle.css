@@ -1,0 +1,253 @@
+
+
+/*------------------- Horizontal / Vertical lines ----------------*/
+
+/* style for ethers */
+.timeline-ether-lines{border-color:#006DB7; border-style:dotted; position:absolute;}
+
+.timeline-horizontal .timeline-ether-lines{border-width:0 0 0 1px; height:100%; top: 0; width: 1px;}
+
+.timeline-vertical .timeline-ether-lines{border-width:1px 0 0; height:1px; left: 0; width: 100%;}
+
+
+
+
+/*---------------- Weekends ---------------------------*/
+
+.timeline-ether-weekends{
+	position:absolute;
+	background-color:#FFFFE0;
+}
+
+.timeline-vertical .timeline-ether-weekends{left:0;width:100%;}
+
+.timeline-horizontal .timeline-ether-weekends{top:0; height:100%;}
+
+
+
+/*-------------------------- HIGHLIGHT DECORATORS -------------------*/
+.timeline-highlight-decorator,
+.timeline-highlight-point-decorator{
+	position:absolute;
+	overflow:hidden;
+}
+.timeline-horizontal .timeline-highlight-point-decorator,
+.timeline-horizontal .timeline-highlight-decorator{
+	width:10px;
+	top:0;
+    height:100%;
+}
+
+.timeline-vertical .timeline-highlight-point-decorator,
+.timeline-vertical .timeline-highlight-decorator{
+	height:10px;
+	width:100%;
+	left:0;
+}
+
+.timeline-highlight-decorator{background-color:#FFC080;}
+.timeline-highlight-point-decorator{background-color:#ff5;}
+
+
+
+/*---------------------------- LABELS -------------------------*/
+.timeline-highlight-label{position:absolute;overflow:hidden;font-size:1.0em;font-weight:bold;color:#ff0000;}
+
+
+/*---------------- VERTICAL LABEL -------------------*/
+.timeline-horizontal .timeline-highlight-label{top:0;height:100%;vertical-align:middle;}
+.timeline-horizontal .timeline-highlight-label td{vertical-align:middle;}
+.timeline-horizontal .timeline-highlight-label-start{text-align:right;}
+.timeline-horizontal .timeline-highlight-label-end{text-align:left;}
+
+
+/*---------------- HORIZONTAL LABEL -------------------*/
+.timeline-vertical .timeline-highlight-label{left:0;width:100%;vertical-align:middle;}
+.timeline-vertical .timeline-highlight-label td{vertical-align:middle;}
+.timeline-vertical .timeline-highlight-label-start{text-align:center;}
+.timeline-vertical .timeline-highlight-label-end{text-align:center;}
+
+
+
+/*-------------------------------- DATE LABELS --------------------------------*/
+.timeline-date-label{position:absolute; border:solid #ffffff; color:#ffffff; width:5em; height:1.5em;}
+.timeline-date-label-em{color:#006DB7; font-size:1.0em; font-weight:bold;}
+
+/* horizontal */
+.timeline-horizontal .timeline-date-label{padding-left:2px;}
+.timeline-horizontal .timeline-date-label{border-width:0 0 0 1px;}
+.timeline-horizontal .timeline-date-label-em{height:2em}
+
+/* vertical */
+.timeline-vertical .timeline-date-label{padding-top:2px;}
+.timeline-vertical .timeline-date-label{border-width:1px 0 0;}
+.timeline-vertical .timeline-date-label-em{width:7em}
+
+/*------------------------------- Ether.highlight -------------------------*/
+.timeline-ether-highlight{position:absolute; background-color:#ffffff;}
+.timeline-horizontal .timeline-ether-highlight{top:2px;}
+.timeline-vertical .timeline-ether-highlight{left:2px;}
+
+
+
+/*------------------------------ EVENTS ------------------------------------*/
+.timeline-event-icon, .timeline-event-tape{
+	position:absolute;
+	cursor:pointer;
+	padding-top:3px;
+}
+.timeline-event-label{
+	position:absolute;
+	cursor:pointer;
+	padding-left:3px;
+	padding-top:5px;
+	font-weight:bold;
+}
+
+.timeline-event-tape,
+.timeline-small-event-tape,
+.timeline-small-event-icon{
+	background-color:#006DB7; /*----- jahresdinger -----------*/
+	overflow:hidden;
+}
+
+.timeline-small-event-tape,
+.timeline-small-event-icon{
+	position:absolute;
+}
+
+.timeline-event-tape{height:4px;}
+
+.timeline-small-event-tape{height:2px;}
+.timeline-small-event-icon{width:4px; height:6px; background-color:#C2E0F4}
+ 
+ 
+
+/*--------------------------------- TIMELINE-------------------------*/
+.timeline-ether-bg{width:100%; height:100%;}
+.timeline-band-0 .timeline-ether-bg{background-color:#a1c4db}
+.timeline-band-1 .timeline-ether-bg{background-color:#006DB7}
+.timeline-band-2 .timeline-ether-bg{background-color:#ccc}
+.timeline-band-3 .timeline-ether-bg{background-color:#aaa}
+.timeline-duration-event {
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid blue;
+}
+
+.timeline-instant-event2 {
+    position: absolute;
+    overflow: hidden;
+    border-left: 1px solid blue;
+    padding-left: 2px;
+}
+
+.timeline-instant-event {
+    font-weight: bold;
+	position: absolute;
+    overflow: hidden;
+}
+
+.timeline-event-bubble-title {
+    font-family: Verdana;
+	font-weight: bold;
+	font-size: 0.7em;
+	color:      #000000;
+    border-bottom: 1px solid #006DB7;
+    margin-bottom: 0.5em;
+}
+
+.timeline-event-bubble-body {
+ 
+}
+
+.timeline-event-bubble-wiki {
+    margin:     0.5em;
+    text-align: right;
+    color:      #A0A040;
+}
+.timeline-event-bubble-wiki a {
+    color:      #A0A040;
+}
+
+.timeline-event-bubble-time {
+    font-family: Verdana;
+	font-size: 0.6em;
+	text-align: right;
+	color: #888888;
+	
+}
+
+.timeline-event-bubble-image {
+    float: right;
+    padding-left: 5px;
+    padding-bottom: 5px;
+	width: 50px;
+	height: 50px;
+	
+}.timeline-container {
+    background-color:#ff0000;
+	position: relative;
+    overflow: hidden;
+}
+
+.timeline-copyright {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    
+    cursor: pointer;
+}
+
+.timeline-message-container {
+    position:   absolute;
+    top:        30%;
+    left:       35%;
+    right:      35%;
+    z-index:    1000;
+    display:    none;
+}
+.timeline-message {
+    font-size:      120%;
+    font-weight:    bold;
+    text-align:     center;
+}
+.timeline-message img {
+    vertical-align: middle;
+}
+
+.timeline-band {
+    position:   absolute;
+    background: #eee;
+    z-index:    10;
+}
+
+.timeline-band-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.timeline-band-input {
+    position:   absolute;
+    width:      1em;
+    height:     1em;
+    overflow:   hidden;
+    z-index:    0;
+}
+.timeline-band-input input{
+    width:      0;
+}
+
+.timeline-band-layer {
+    position:   absolute;
+    width:      100%;
+    height:     100%;
+}
+
+.timeline-band-layer-inner {
+    position:   relative;
+    width:      100%;
+    height:     100%;
+}
+
